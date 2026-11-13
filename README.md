@@ -12,6 +12,8 @@ do now, and exactly how to do it.
 **[Download the latest installer](https://github.com/jhughes2466/fleet-command-compendium/releases/latest/download/FleetCommandCompendium-Setup.exe)**
 (Windows 10 or 11, about 16 MB). All versions are on the [Releases page](https://github.com/jhughes2466/fleet-command-compendium/releases).
 
+Website: **[galacticdesk.com](https://galacticdesk.com)**
+
 This repository holds the installer downloads only. The app's source code isn't published.
 
 ## Installing
